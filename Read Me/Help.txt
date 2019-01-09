@@ -1,0 +1,8 @@
+To update css file:
+ 
+  - In terminal: type "npm run sass"
+  - Start making changes in main.scss file and once you save, the main.css file should update
+
+  ctrl+l in terminal clears terminal
+
+  to start live server: right click on index.html and click "Open with live server"
