@@ -38,6 +38,13 @@ a {
   text-decoration: none;
 }
 
+.resume_link {
+  &:hover {
+    color: $secondary-color;
+    @include easeOut();
+  }
+}
+
 header {
   position: fixed;
   z-index: 2;

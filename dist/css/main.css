@@ -134,6 +134,10 @@ a {
   color: #fff;
   text-decoration: none; }
 
+.resume_link:hover {
+  color: #1ab2ee;
+  transition: all 0.5s ease-out; }
+
 header {
   position: fixed;
   z-index: 2;
